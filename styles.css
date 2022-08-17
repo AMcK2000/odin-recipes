@@ -27,8 +27,20 @@ h1 {
     color: white;
 }
 
-.pasta {
+#raspb {
+    font-size: 75px;
+}
+
+#pasta {
     width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#raspsmooth {
+    width: 450px;
     height: auto;
     display: block;
     margin-left: auto;
