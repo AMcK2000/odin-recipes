@@ -1,0 +1,23 @@
+body {
+    background-color: #262525;
+}
+
+h1 {
+    color: white;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 85px;
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+    font-size: 30px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
