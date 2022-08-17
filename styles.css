@@ -4,6 +4,7 @@ body {
 
 h1 {
     color: white;
+    background-color: #363434;
     font-family: "Times New Roman", sans-serif;
     font-size: 85px;
     text-align: center;
@@ -12,6 +13,26 @@ h1 {
 .links {
     text-align: center;
     font-size: 30px;
+}
+
+.desc {
+    color: white;
+}
+
+.ingr {
+    color: white;
+}
+
+.steps {
+    color: white;
+}
+
+.pasta {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a:link {
